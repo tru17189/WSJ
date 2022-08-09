@@ -1,0 +1,23 @@
+body {
+    background-color: #0e1111;
+  }
+  
+  h1 {
+    color: #3b444b;
+  }
+  
+  p {
+    color: #414a4c;
+  }
+  
+  .container {
+    position: absolute;
+    height: 95%;
+    width: 35%;
+    background-color: #232b2b;
+  }
+  .container-logo {
+    background-color: #414a4c;
+    text-align: center;
+  }
+  
